@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|d:\\mau\\proyectohorario\\proyectohorario\\proyectohorario\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|d:\\mau\\proyectohorario\\proyectohorario\\classbll\\blldocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|solutionrelative:classbll\\blldocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E767562-230B-41E4-916A-A16001E1008D}|ClassDAL\\ClassDAL.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\classdal\\dalmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E767562-230B-41E4-916A-A16001E1008D}|ClassDAL\\ClassDAL.csproj|solutionrelative:classdal\\dalmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|d:\\mau\\proyectohorario\\proyectohorario\\classbll\\bllperiodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|solutionrelative:classbll\\bllperiodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|d:\\mau\\proyectohorario\\proyectohorario\\classbll\\bllhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|solutionrelative:classbll\\bllhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|d:\\mau\\proyectohorario\\proyectohorario\\classbll\\bllgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|solutionrelative:classbll\\bllgrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|d:\\mau\\proyectohorario\\proyectohorario\\classbll\\bllespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|solutionrelative:classbll\\bllespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|d:\\mau\\proyectohorario\\proyectohorario\\classbll\\blledificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|solutionrelative:classbll\\blledificios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|d:\\mau\\proyectohorario\\proyectohorario\\classbll\\blldiviciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|solutionrelative:classbll\\blldiviciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|d:\\mau\\proyectohorario\\proyectohorario\\classbll\\bllaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|solutionrelative:classbll\\bllaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|d:\\mau\\proyectohorario\\proyectohorario\\classbll\\bllasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04883C11-DBAD-49BE-9529-48F9CFEC7BE6}|ClassBLL\\ClassBLL.csproj|solutionrelative:classbll\\bllasignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform10.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform10.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform8.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform8.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform9.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform9.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform4.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform4.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|D:\\mau\\ProyectoHorario\\ProyectoHorario\\proyectohorario\\webform4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED948DA-BD83-4D9E-8FED-D921488DF546}|ProyectoHorario\\ProyectoHorario.csproj|solutionrelative:proyectohorario\\webform4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\Web.config",
+              "RelativeDocumentMoniker": "ProyectoHorario\\Web.config",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\Web.config",
+              "RelativeToolTip": "ProyectoHorario\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-15T01:06:57.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLLPeriodo.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLPeriodo.cs",
+              "RelativeDocumentMoniker": "ClassBLL\\BLLPeriodo.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLPeriodo.cs",
+              "RelativeToolTip": "ClassBLL\\BLLPeriodo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:05:31.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BLLHorario.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLHorario.cs",
+              "RelativeDocumentMoniker": "ClassBLL\\BLLHorario.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLHorario.cs",
+              "RelativeToolTip": "ClassBLL\\BLLHorario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:05:23.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLLGrupo.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLGrupo.cs",
+              "RelativeDocumentMoniker": "ClassBLL\\BLLGrupo.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLGrupo.cs",
+              "RelativeToolTip": "ClassBLL\\BLLGrupo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:05:17.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLLEspecialidades.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLEspecialidades.cs",
+              "RelativeDocumentMoniker": "ClassBLL\\BLLEspecialidades.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLEspecialidades.cs",
+              "RelativeToolTip": "ClassBLL\\BLLEspecialidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:05:10.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLLEdificios.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLEdificios.cs",
+              "RelativeDocumentMoniker": "ClassBLL\\BLLEdificios.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLEdificios.cs",
+              "RelativeToolTip": "ClassBLL\\BLLEdificios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:05:04.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BLLDocente.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLDocente.cs",
+              "RelativeDocumentMoniker": "ClassBLL\\BLLDocente.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLDocente.cs",
+              "RelativeToolTip": "ClassBLL\\BLLDocente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:04:57.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BLLDiviciones.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLDiviciones.cs",
+              "RelativeDocumentMoniker": "ClassBLL\\BLLDiviciones.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLDiviciones.cs",
+              "RelativeToolTip": "ClassBLL\\BLLDiviciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:04:45.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BLLAula.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLAula.cs",
+              "RelativeDocumentMoniker": "ClassBLL\\BLLAula.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLAula.cs",
+              "RelativeToolTip": "ClassBLL\\BLLAula.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:02:55.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BLLAsignacion.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLAsignacion.cs",
+              "RelativeDocumentMoniker": "ClassBLL\\BLLAsignacion.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassBLL\\BLLAsignacion.cs",
+              "RelativeToolTip": "ClassBLL\\BLLAsignacion.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:34:39.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm1.aspx.cs",
+              "RelativeToolTip": "ProyectoHorario\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:34:08.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALMysql.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassDAL\\DALMysql.cs",
+              "RelativeDocumentMoniker": "ClassDAL\\DALMysql.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ClassDAL\\DALMysql.cs",
+              "RelativeToolTip": "ClassDAL\\DALMysql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:34:21.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebForm1.aspx.designer.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm1.aspx.designer.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm1.aspx.designer.cs",
+              "RelativeToolTip": "ProyectoHorario\\WebForm1.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:34:06.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebForm8.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm8.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm8.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm8.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm8.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:20:17.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebForm7.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm7.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm7.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm7.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm7.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:20:08.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebForm3.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm3.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm3.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm3.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:19:05.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebForm6.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm6.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm6.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm6.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm6.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:17:14.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm1.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm1.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:04:26.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebForm4.aspx.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm4.aspx.cs",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm4.aspx.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm4.aspx.cs",
+              "RelativeToolTip": "ProyectoHorario\\WebForm4.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:16:12.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebForm5.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm5.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm5.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm5.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm5.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:16:10.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm2.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm2.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:16:05.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebForm4.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm4.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm4.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm4.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm4.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:16:06.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebForm10.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm10.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm10.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm10.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm10.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:20:30.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebForm9.aspx",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm9.aspx",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm9.aspx",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm9.aspx",
+              "RelativeToolTip": "ProyectoHorario\\WebForm9.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-14T01:20:24.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WebForm4.aspx.designer.cs",
+              "DocumentMoniker": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm4.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ProyectoHorario\\WebForm4.aspx.designer.cs",
+              "ToolTip": "D:\\mau\\ProyectoHorario\\ProyectoHorario\\ProyectoHorario\\WebForm4.aspx.designer.cs",
+              "RelativeToolTip": "ProyectoHorario\\WebForm4.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:16:16.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

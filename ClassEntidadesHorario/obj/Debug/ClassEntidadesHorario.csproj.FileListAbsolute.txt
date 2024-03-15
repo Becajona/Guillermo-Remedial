@@ -1,0 +1,6 @@
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassEntidadesHorario\bin\Debug\ClassEntidadesHorario.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassEntidadesHorario\bin\Debug\ClassEntidadesHorario.pdb
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassEntidadesHorario\obj\Debug\ClassEntidadesHorario.csproj.AssemblyReference.cache
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassEntidadesHorario\obj\Debug\ClassEntidadesHorario.csproj.CoreCompileInputs.cache
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassEntidadesHorario\obj\Debug\ClassEntidadesHorario.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassEntidadesHorario\obj\Debug\ClassEntidadesHorario.pdb

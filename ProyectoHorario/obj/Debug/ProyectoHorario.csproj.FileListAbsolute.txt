@@ -1,0 +1,230 @@
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\ProyectoHorario.dll.config
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\ProyectoHorario.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\ProyectoHorario.pdb
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\csc.exe
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\csc.exe.config
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\csc.rsp
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\csi.exe
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\csi.exe.config
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\csi.rsp
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.AppContext.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Collections.Immutable.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Console.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Globalization.Calendars.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.IO.Compression.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.IO.FileSystem.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Net.Http.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Net.Sockets.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Reflection.Metadata.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.ValueTuple.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Xml.XPath.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\vbc.exe
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\vbc.exe.config
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\vbc.rsp
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\VBCSCompiler.exe
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\roslyn\VBCSCompiler.exe.config
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\ClassBLL.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\ClassEntidadesHorario.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\ClassDAL.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\MySql.Data.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\Google.Protobuf.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\Zstandard.Net.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\K4os.Compression.LZ4.Streams.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\BouncyCastle.Crypto.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\Ubiety.Dns.Core.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\System.Buffers.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\K4os.Compression.LZ4.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\K4os.Hash.xxHash.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\ClassBLL.pdb
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\ClassEntidadesHorario.pdb
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\ClassDAL.pdb
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\bin\MySql.Data.xml
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.csproj.AssemblyReference.cache
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.csproj.CoreCompileInputs.cache
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\obj\Debug\Proyecto.91FEE6B8.Up2Date
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.dll
+E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.pdb
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\ProyectoHorario.dll.config
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\ProyectoHorario.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\ProyectoHorario.pdb
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\csc.exe
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\csc.exe.config
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\csc.rsp
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\csi.exe
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\csi.exe.config
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\csi.rsp
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.Managed.Core.targets
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.AppContext.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Collections.Immutable.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Console.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Globalization.Calendars.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.IO.Compression.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.IO.FileSystem.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Net.Http.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Net.Sockets.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Reflection.Metadata.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.ValueTuple.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Xml.XmlDocument.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Xml.XPath.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\vbc.exe
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\vbc.exe.config
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\vbc.rsp
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\VBCSCompiler.exe
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\roslyn\VBCSCompiler.exe.config
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\ClassBLL.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\ClassEntidadesHorario.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\ClassDAL.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\MySql.Data.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\Google.Protobuf.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\Zstandard.Net.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\K4os.Compression.LZ4.Streams.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\BouncyCastle.Crypto.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\Ubiety.Dns.Core.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\System.Buffers.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\K4os.Compression.LZ4.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\K4os.Hash.xxHash.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\ClassBLL.pdb
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\ClassEntidadesHorario.pdb
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\ClassDAL.pdb
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\bin\MySql.Data.xml
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.csproj.AssemblyReference.cache
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.csproj.CoreCompileInputs.cache
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\obj\Debug\Proyecto.91FEE6B8.Up2Date
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.dll
+D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.pdb
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ProyectoHorario.dll.config
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ProyectoHorario.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ProyectoHorario.pdb
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\csc.exe
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\csc.exe.config
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\csc.rsp
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\csi.exe
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\csi.exe.config
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\csi.rsp
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.Managed.Core.targets
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.AppContext.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Collections.Immutable.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Console.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Globalization.Calendars.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.IO.Compression.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.IO.FileSystem.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Net.Http.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Net.Sockets.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Reflection.Metadata.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.ValueTuple.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Xml.XmlDocument.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Xml.XPath.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\vbc.exe
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\vbc.exe.config
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\vbc.rsp
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\VBCSCompiler.exe
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\roslyn\VBCSCompiler.exe.config
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ClassBLL.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ClassEntidadesHorario.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ClassDAL.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\MySql.Data.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\Google.Protobuf.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\Zstandard.Net.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\K4os.Compression.LZ4.Streams.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\BouncyCastle.Crypto.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\Ubiety.Dns.Core.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\System.Memory.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\System.Buffers.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\K4os.Compression.LZ4.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\K4os.Hash.xxHash.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\System.Numerics.Vectors.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ClassBLL.pdb
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ClassEntidadesHorario.pdb
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ClassDAL.pdb
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\MySql.Data.xml
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\obj\Debug\ProyectoHorario.csproj.AssemblyReference.cache
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\obj\Debug\ProyectoHorario.csproj.CoreCompileInputs.cache
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\obj\Debug\ProyectoHorario.csproj.CopyComplete
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\obj\Debug\ProyectoHorario.dll
+C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\obj\Debug\ProyectoHorario.pdb
