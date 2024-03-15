@@ -20,6 +20,7 @@ E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassBLL\obj\Debug\ClassBLL.cs
 E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassBLL\obj\Debug\ClassBLL.csproj.Up2Date
 E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassBLL\obj\Debug\ClassBLL.dll
 E:\Utp\Aplicaciones Web para I4.0\ProyectoHorario\ClassBLL\obj\Debug\ClassBLL.pdb
+<<<<<<< HEAD
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ClassBLL\bin\Debug\ClassBLL.dll
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ClassBLL\bin\Debug\ClassBLL.pdb
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ClassBLL\bin\Debug\ClassDAL.dll
@@ -43,3 +44,5 @@ C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ClassBLL\obj\Debug\C
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ClassBLL\obj\Debug\ClassBLL.csproj.CopyComplete
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ClassBLL\obj\Debug\ClassBLL.dll
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ClassBLL\obj\Debug\ClassBLL.pdb
+=======
+>>>>>>> 80bfbab8a12e5e132fdb5e0fee0f091e2d160067

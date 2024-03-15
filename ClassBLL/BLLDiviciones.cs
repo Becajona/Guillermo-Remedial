@@ -11,7 +11,11 @@ namespace ClassBLL
 {
     public class BLLDiviciones
     {
+<<<<<<< HEAD
         DALMysql obj1 = new DALMysql("Server=127.0.0.1; port=3306; DataBase=horarrios5b; Uid=root; SSL Mode=None;");
+=======
+        DALMysql obj1 = new DALMysql("Server=127.0.0.1; port=3306; DataBase=horarios; Uid=root; SSL Mode=None;");
+>>>>>>> 80bfbab8a12e5e132fdb5e0fee0f091e2d160067
 
         public List<Diviciones> ListaDivisiones(ref string msj)
         {

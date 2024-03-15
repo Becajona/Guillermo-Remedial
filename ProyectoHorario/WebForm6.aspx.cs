@@ -1,10 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using ClassBLL;
 using ClassEntidadesHorario;
+=======
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+>>>>>>> 80bfbab8a12e5e132fdb5e0fee0f091e2d160067
 
 namespace ProyectoHorario
 {
@@ -12,6 +19,7 @@ namespace ProyectoHorario
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (!IsPostBack)
             {
                 CargarDropDowns();
@@ -44,3 +52,9 @@ namespace ProyectoHorario
         }
     }
 }
+=======
+
+        }
+    }
+}
+>>>>>>> 80bfbab8a12e5e132fdb5e0fee0f091e2d160067

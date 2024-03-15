@@ -4,6 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+<<<<<<< HEAD
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>Asignacioncuatrimestral</title>
     <style>
@@ -101,6 +102,28 @@
             <br />
             <asp:Button ID="Button2" runat="server" Text="Modificar Asignación" OnClick="Button2_Click" />
         </div>
+=======
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Asignacioncuatrimestral</title>
+</head>
+<body>
+   
+    <div class="navbar">
+        <a href="WebForm1.aspx">Aulas</a>
+        <a href="WebForm2.aspx">Edificios</a>
+        <a href="WebForm3.aspx">Especialidades</a>
+        <a href="WebForm4.aspx">Horario</a>
+        <a href="WebForm5.aspx">Grupo</a>
+        <a href="WebForm6.aspx">Docentes</a>
+        <a href="WebForm7.aspx">Periodos</a>
+        <a href="WebForm8.aspx">Asignacioncuatrimestral</a>
+        <a href="WebForm9.aspx">Asignaturas</a>
+        <a href="WebForm10.aspx">Registroasistencia</a>
+
+    </div>
+    <form id="form1" runat="server">
+        
+>>>>>>> 80bfbab8a12e5e132fdb5e0fee0f091e2d160067
     </form>
 </body>
 </html>

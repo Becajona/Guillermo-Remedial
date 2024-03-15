@@ -11,6 +11,7 @@ namespace ProyectoHorario
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (!IsPostBack)
             {
                 CargarGridView();
@@ -30,6 +31,9 @@ namespace ProyectoHorario
         private void CargarGridView()
         {
             
+=======
+
+>>>>>>> 80bfbab8a12e5e132fdb5e0fee0f091e2d160067
         }
     }
 }

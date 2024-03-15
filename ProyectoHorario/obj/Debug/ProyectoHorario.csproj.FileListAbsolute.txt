@@ -150,6 +150,7 @@ D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario
 D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\obj\Debug\Proyecto.91FEE6B8.Up2Date
 D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.dll
 D:\mau\ProyectoHorario\ProyectoHorario\ProyectoHorario\obj\Debug\ProyectoHorario.pdb
+<<<<<<< HEAD
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ProyectoHorario.dll.config
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ProyectoHorario.dll
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\bin\ProyectoHorario.pdb
@@ -228,3 +229,5 @@ C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\obj\
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\obj\Debug\ProyectoHorario.csproj.CopyComplete
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\obj\Debug\ProyectoHorario.dll
 C:\sdsaasas\Guillermo-Remedial-main\Guillermo-Remedial-main\ProyectoHorario\obj\Debug\ProyectoHorario.pdb
+=======
+>>>>>>> 80bfbab8a12e5e132fdb5e0fee0f091e2d160067

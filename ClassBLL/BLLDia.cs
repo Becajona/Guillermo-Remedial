@@ -11,7 +11,11 @@ namespace ClassBLL
 {
     public class BLLDia
     {
+<<<<<<< HEAD
         DALMysql obj1 = new DALMysql("Server=127.0.0.1; port=3306; DataBase=hoarrios5b; Uid=root; SSL Mode=None;");
+=======
+        DALMysql obj1 = new DALMysql("Server=127.0.0.1; port=3306; DataBase=horarios; Uid=root; Pwd=zxcv1234;SSL Mode=None;");
+>>>>>>> 80bfbab8a12e5e132fdb5e0fee0f091e2d160067
         public List<DiaSemana> ListaDia(ref string msj)
         {
             List<DiaSemana> lista = new List<DiaSemana>();
